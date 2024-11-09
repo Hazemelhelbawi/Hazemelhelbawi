@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **A lot of project with reactjs**
 
-- 🤝 I’m looking for **internship/job**
+- 🤝 I’m looking for **job**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React & Next**
 
 - 📫 How to reach me **hazemelhilbawi@gmail.com**
 
