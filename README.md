@@ -54,9 +54,7 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </a> 
-  <a href="https://zustand-demo.pmnd.rs/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/jackblatch/zustand-devtools/main/public/zustand.svg" alt="zustand" width="40" height="40"/> 
-  </a> 
+
   <a href="https://mui.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="material-ui" width="40" height="40"/> 
   </a> 
