@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-- 💼 Frontend Engineer with **2+ years of experience**
+- 💼 Frontend Engineer with **3+ years of experience**
 - 🏢 Built **B2B SaaS, ERP & CRM systems used by 50+ clients**
 - 📈 Improved SEO to **100% Lighthouse** and increased traffic by **+35%**
 - ⚡ Focused on **performance, scalability & clean architecture**
