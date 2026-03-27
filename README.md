@@ -1,67 +1,102 @@
 <h1 align="center">Hi 👋, I'm Hazem Elhelbawi</h1>
-<h3 align="center">A passionate frontend developer from Egypt</h3>
+<h3 align="center">Frontend Engineer | React & Next.js Specialist</h3>
 
-- 🔭 I’m currently working on **A lot of project with reactjs**
-
-- 🤝 I’m looking for **job**
-
-- 💬 Ask me about **React & Next**
-
-- 📫 How to reach me **hazemelhilbawi@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/hazzemelhelbawi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hazzemelhelbawi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hazemelhelbawi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hazemelhelbawi" height="30" width="40" /></a>
-<a href="https://instagram.com/hazemelhelbawi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hazemelhelbawi" height="30" width="40" /></a>
+<p align="center">
+🚀 Building scalable SaaS, ERP & CRM systems with real business impact
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> 
-  </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
-  </a> 
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
-  </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-  </a> 
+---
 
-  <a href="https://mui.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="material-ui" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer motion" width="40" height="40"/> 
-  </a> 
-  <a href="https://jestjs.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> 
-  </a> 
+### 👨‍💻 About Me
+
+- 💼 Frontend Engineer with **2+ years of experience**
+- 🏢 Built **B2B SaaS, ERP & CRM systems used by 50+ clients**
+- 📈 Improved SEO to **100% Lighthouse** and increased traffic by **+35%**
+- ⚡ Focused on **performance, scalability & clean architecture**
+- 🤖 Leveraging **AI tools to boost productivity & code quality**
+- 🎯 Currently **open to new opportunities**
+
+---
+
+### 🛠️ Tech Stack
+
+#### 🚀 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,sass,html,css" />
 </p>
+
+#### 📱 Mobile
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,flutter" />
+</p>
+
+
+#### 🤖 AI-Assisted Development
+<p align="center">
+Claude • Cursor • GitHub Copilot
+</p>
+
+#### 🧰 Tools & Workflow
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,figma,postman,jest" />
+</p>
+
+---
+
+### 💼 Experience
+
+- Developed **ERP & CRM modules** (inventory, accounting, scheduling)
+- Built **role-based CMS dashboard** → reduced manual updates by **40%**
+- Improved **lead conversion by 15%** via CRM enhancements
+- Optimized performance using **SSR, code splitting & image optimization**
+
+---
+
+### 🚀 Featured Projects
+
+#### 🔹 Elitebiznes
+- SEO-optimized (100%) SSR website with custom CMS  
+🔗 https://elitebiznes.com/ar
+
+#### 🔹 Pipeline App
+- Task management app with **drag & drop + React Flow**  
+🔗 https://github.com/Hazemelhelbawi/pipline-task
+
+#### 🔹 E-commerce App
+- Full e-commerce flow (products, cart, checkout)  
+🔗 https://github.com/Hazemelhelbawi/ecommerce_task
+
+#### 🔹 Course Player
+- Interactive video learning platform  
+🔗 https://course-voyage-player.vercel.app
+
+---
+
+### 📊 Achievements
+
+- 🚀 100% SEO Lighthouse Score
+- 📈 +35% Organic Traffic Growth
+- 👥 Systems used by 50+ clients
+- ⚡ Reduced manual CMS operations by 40%
+
+---
+
+### 🌐 Connect with me
+
+<p align="center">
+<a href="https://linkedin.com/in/hazemelhelbawi">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="mailto:hazemelhilbawi@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+<a href="https://github.com/Hazemelhelbawi">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+</p>
+
+---
+
+### 📌 Portfolio
+
+🔗 https://portfolio-mpin.vercel.app
