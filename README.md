@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hazem Elhelbawi</h1>
-<h3 align="center">Frontend Engineer | React & Next.js Specialist</h3>
+<h3 align="center">Frontend Engineer | React & Next.js & React Native Specialist</h3>
 
 <p align="center">
 🚀 Building scalable SaaS, ERP & CRM systems with real business impact
